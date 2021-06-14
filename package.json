@@ -5,8 +5,8 @@
   "main": "index.js",
   "homepage": "https://portofranko1234.github.io/goit-js-hw-10-food-service/",
   "scripts": {
-    "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food-service/"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-10-food-service/"
   },
   "repository": {
     "type": "git",
